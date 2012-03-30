@@ -23,4 +23,4 @@ Simple webapp template to get instantly started.
   * __index.html__        - - - The HTML Skeleton
 
 
-## That's it. Let's get started!
+## That's it. Let's get started.
